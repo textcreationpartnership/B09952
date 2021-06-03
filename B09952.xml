@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A satyr upon Tyrconnels coming over to Ireland, to be Lord Deputy of that kingdom / by an English Protestant there.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09952</idno><idno type="EEBO-CITATION">69648885</idno>
+  <idno type="VID">185048</idno>
+  <idno type="EEBO-PROQUEST">2240871886</idno>
+  
+            <idno type="STC">Wing S721A</idno>
+            <idno type="STC">ESTC R224448</idno>
+            <idno type="OCLC">69648885</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185048)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2885:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A satyr upon Tyrconnels coming over to Ireland, to be Lord Deputy of that kingdom / by an English Protestant there.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Smith, and published by R. Baldwin in the Great Old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Tyrconnel, Richard Talbot, --  Earl of, 1630-1691 --  Poetry.</term>
+               <term type="topical_term">Political poetry, English --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1688-1689 --  Humor --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:185048:1"/>
+            <head>A Satyr upon Tyrconnels coming over to <hi>Ireland,</hi> to be Lord Deputy of that Kingdom.</head>
+            <byline>By an English Protestant there.</byline>
+            <lg>
+               <l>A Rise old Neptune, shake thy forked Spear,</l>
+               <l>Make all the Fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h i'th' Sea, now Quake for fear:</l>
+               <l>Make Wind and Weather, now their fury show,</l>
+               <l>And Raise up Tempests, from the Shades below:</l>
+               <l>Cover the face of heaven, with mourning Clouds:</l>
+               <l>Let Storms &amp; Thunder, break down Sails &amp; Shrowds.</l>
+               <l>Now Neptune, look about thee, hold him fast:</l>
+               <l>Send him to'th' bottom, by some furious blast:</l>
+               <l>Now thou hast got him, so far from the Shore:</l>
+               <l>Sink him, that he may plague the Land no more:</l>
+               <l>
+                  <hi>Tyrconnel,</hi> Oh <hi>Tyrconnel!</hi> that is he:</l>
+               <l>Make him thy Prisoner, never set him free:</l>
+               <l>For if thou dost, thou never more maist find</l>
+               <l>So fit a time, to pleasure all mankind:</l>
+               <l>O mighty Neptune some Count thee a God;</l>
+               <l>For shame then, let this Rebel feel thy Rod:</l>
+               <l>Command thy Instruments, raise all thy power:</l>
+               <l>Let fish, or something, now this prey devour:</l>
+               <l>Let vengeance fright him, let not plagues forsake him:</l>
+               <l>If he Scape Drowning, let the Gallows take him:</l>
+               <l>Let him not find the least degree of hope:</l>
+               <l>But what may straight be chang'd into a Rope:</l>
+               <l>If he should scape, both Sea and Gallows too,</l>
+               <l>The Devil himself will scarce know what to do:</l>
+               <l>This Cursed, Popish, Hectoring, Rome-bred Elf,</l>
+               <l>Will think he's grown, great <hi>Belzebub</hi> himself,</l>
+               <l>And so displace, even all the Devils in Hell,</l>
+               <l>Lest they in mischief should himself excel:</l>
+               <l>Which to prevent, he'll get a conjuring wand,</l>
+               <l>And list them all under his own Command:</l>
+               <l>He'l purge his Army, with a Popish Pill,</l>
+               <l>And make the Devils subject to his will:</l>
+               <l>Out goes a man, and in his Vacant place,</l>
+               <l>In steps a Devil, with a Romish face;</l>
+               <l>A Bonny-Clabber-Rogue, whose lice would fill</l>
+               <l>An Empty Bag, left by his Fathers will:</l>
+               <l>That's good for nothing, but to steal a sheep,</l>
+               <l>Or cut an English throat, when fast asleep.</l>
+               <l>These are the Blades, the Trusty hearts of Oak:</l>
+               <l>That must give hereticks their fatal stroak:</l>
+               <l>And now without the help of Jew or Turk,</l>
+               <l>Our Pope can thus accomplish his own work:</l>
+               <l>Ha boys! Rejoyce, what power can now withstand</l>
+               <l>The Popes designs led by this mighty hand?</l>
+               <l>Where Pope and Devil, and great <hi>Tyrconnels</hi> force,</l>
+               <l>Are thus Combin'd, to Rout both Foot and Horse:</l>
+               <l>Now Protestants look to't, we'l pay you off;</l>
+               <l>We'l now Remember every little scoff;</l>
+               <l>How you sometimes, reproach our pretty Nuns,</l>
+               <l>And Friers too, our Churches Bawdy Sons:</l>
+               <l>They can't agree, to make a Brat together,</l>
+               <l>But straight your Tongues must run, we know not whi<g ref="char:EOLhyphen"/>ther.</l>
+               <l>Come Tories, come, Let's Rant, and Drink and Roar,</l>
+               <l>And Sacrifice unto the <hi>Romish Whore:</hi>
+               </l>
+               <l>Drink the Popes health, with Draughts of English blood;</l>
+               <l>For Popish Stomachs, nothing is so good:</l>
+               <l>The Day's our own, let's Tap our Romish Wine;</l>
+               <l>Let's make our hay, now whilst our Sun doth Shine.</l>
+               <l>Our time's but short, our zeal must be the more,</l>
+               <l>To fill the Cup, of our Blood-thirsty Whore,</l>
+               <l>Whose hungry paunch, has long time kept a fast;</l>
+               <l>For pitty sake, let's feast her now at last:</l>
+               <l>In doing so, his Holiness will bless us,</l>
+               <l>And with our fellow-Devils of hell possess us:</l>
+               <l>He keeps the Keys, of Purgatory and Hell,</l>
+               <l>And will Reward such faithful service well:</l>
+               <l>Those that can Laugh to hear a heretick groan,</l>
+               <l>Shall sit with <hi>Pluto,</hi> on his smoaky Throne:</l>
+               <l>But those that can't in murder Sing and Glory,</l>
+               <l>Shall only be advanc'd to Purgatory.</l>
+               <l>Let this incourage all, both High and Low,</l>
+               <l>Whilst we have time, to strike one hearty blow:</l>
+               <l>A Blow that may secure the Tripple Crown,</l>
+               <l>And bring Reformist, with a vengeance, down:</l>
+               <l>A Blow that may our Catholick cause Advance,</l>
+               <l>And make it's Brats about a May-pole Dance:</l>
+               <l>A blow that may, for ever split the hopes</l>
+               <l>Of Hereticks that Rant against our Popes.</l>
+            </lg>
+            <lg>
+               <l>March on, <hi>Trysanor,</hi> whilst we sing thy praise,</l>
+               <l>For these long look't for gallant Popish days:</l>
+               <l>For tho' we know thou art a Tory-Cur,</l>
+               <l>Yet thou hast given the Whigs a Devillish slur:</l>
+               <l>Tho' we are Dogs, yet we're of thy own breed;</l>
+               <l>A Tory Crew, better to hang than feed:</l>
+               <l>Thy worthy praises we can loudly yelp;</l>
+               <l>Hail! then, <hi>Trysanor,</hi> oh thou hopeful Whelp,</l>
+               <l>Thy very name declares thy nature true,</l>
+               <l>We'l burn the Gallows, lest they claim their due:</l>
+               <l>So may we march, without controul or fear,</l>
+               <l>
+                  <hi>Cerb'rus</hi> i't'h Van, and <hi>Talbot</hi> in the Rear;</l>
+               <l>We'l set our Bagpipes, to the briskest Notes,</l>
+               <l>And in thy praise we'l rend our very Throats:</l>
+               <l>We'l tune those strings, which were for ages sad:</l>
+               <l>And with brave Catholick Songs, We'l now grow mad:</l>
+               <l>The mighty Patron of thy Countrys wo,</l>
+               <l>Devillishly lov'd, and ever will be so:</l>
+               <l>For why old Nick, does never use to fail</l>
+               <l>Such Tools as feed, upon the Dragons Tail:</l>
+               <l>With Caps cast up, we'l tear the very ground,</l>
+               <l>And make the Infernals Leap, to hear the sound:</l>
+               <l>The Prince of Darkness, sure will join with us,</l>
+               <l>To see us rais'd to Hellish honour thus:</l>
+               <l>
+                  <hi>Phlegon,</hi> let's see thy face, to make us sport:</l>
+               <l>Who Crown'd with Worm-wood, came from <hi>Pluto's Court,</hi>
+               </l>
+               <l>And fraught with praise, for deeds of Darkness done,</l>
+               <l>Deserves the stile of <hi>Belzebubs</hi> own Son:</l>
+               <l>Thy face, thy face, O that rich face of thine,</l>
+               <l>A rusty Bullet scarce so much doth shine:</l>
+               <l>Nature has cram'd thy Pockets too, with store</l>
+               <l>Of good Potatoes, that they'l hold no more:</l>
+               <l>By Sea and Land, thy valour has been known,</l>
+               <l>In Field, or Bog, each Girl, was still thy own:</l>
+               <l>And at this day thy strange prevailing hand</l>
+               <l>Procures all Curses to this groaning Land:</l>
+               <l>For like a Basilisk, fill'd with Venom store,</l>
+               <l>Thou'rt come to Poison all the Irish shore:</l>
+               <l>The Toads and Frogs St. <hi>Patrick</hi> banisht hence,</l>
+               <l>Are all return'd, to stand in thy defence:</l>
+               <l>Our gallant Popish King, has sent thee hither,</l>
+               <l>To teach us all to Dance, we know not whither;</l>
+               <l>We with we ben't at last, all hang'd together.</l>
+               <l>Hail! Hail! <hi>Antitheus,</hi> Frost and Snow, and Hail,</l>
+               <l>Thunders and Earthquakes, wait upon thy Tail:</l>
+               <l>Hail Scab of Courts! Hail! Pet of Popish rage!</l>
+               <l>Hail shining Serpent, of this present age!</l>
+               <l>Hail <hi>Cerberus</hi> Peer, by God and Man abhor'd!</l>
+               <l>Hail Monster, such as <hi>Africk</hi> can't afford!</l>
+               <l>Hail <hi>Hydra's</hi> Heart! Hail, nothing can be worse!</l>
+               <l>Grim <hi>Plutos</hi> Darling, and the Peoples Curse:</l>
+               <l>Let Hail like Milstones, fall upon thy Head,</l>
+               <l>And never cease till Hail has struck thee Dead.</l>
+            </lg>
+            <lg>
+               <l>The States of <hi>Greece</hi> could not with greater Joy:</l>
+               <l>Receive their Dukes returning home from <hi>Troy:</hi>
+               </l>
+               <l>Nor Pope rejoice more in his power and places,</l>
+               <l>Than we to see thee hang'd before our faces:</l>
+               <l>Dye then, <hi>Trysanor</hi> Dye, and go no further,</l>
+               <l>For God will surely Judge, for Blood and Murder:</l>
+               <l>And that's the Gospel, that thou dost defend,</l>
+               <l>May <hi>Haman's</hi> portion quickly be thy end:</l>
+               <l>May all true Church-men, now themselves prepare</l>
+               <l>To break thy Neck, with this new Common prayer:</l>
+               <l>Thy days are evil, may they be but few,</l>
+               <l>Lord make that part of <hi>Jacobs</hi> Lot thy due:</l>
+               <l>May good St. <hi>Coleman</hi> never quiet be;</l>
+               <l>Till thou hast thy reward, as well as he:</l>
+               <l>May <hi>Plunkets</hi> Ghost, for ever thee affright,</l>
+               <l>And drive thee soon, into eternal night:</l>
+               <l>And may St. <hi>Stafford</hi> never let thee rest,</l>
+               <l>Till of Infernal mansions thou'rt possest:</l>
+               <l>And may St <hi>Grove</hi> and <hi>Pickering</hi> hither clamber,</l>
+               <l>And drag thee hence into thy Brimstone Chamber:</l>
+               <l>May <hi>Belzebub</hi> thy Carkass all ingross:</l>
+               <l>From all such Popish Nimrods, <hi>Libera Nos:</hi>
+               </l>
+               <l>In fine, may <hi>Pluto,</hi> and his hellish Crew,</l>
+               <l>Combine to fetch thee, as their present due:</l>
+               <l>And may this Nation, fill'd with honest flames,</l>
+               <l>Ne're want a Curse to fling upon such names.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Smith.</hi> And Published by <hi>R. Baldwin</hi> in the Great <hi>Old-Baily.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
